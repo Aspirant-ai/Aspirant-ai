@@ -30,8 +30,6 @@
 
 - 🌱 I’m currently learning **Laravel 11 , Python , react**
 
-- 👯 I’m looking to collaborate on [Frontend UI/UX improvements for the Online Examination System](https://github.com/Aspirant-ai)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Aspirant-ai](https://github.com/Aspirant-ai)
 
 - 💬 Ask me about **Laravel 11, API Development ,**
